@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    prettier_print (1.2.1)
+    syntax_tree (6.2.0)
+      prettier_print (>= 1.2.0)
+
+PLATFORMS
+  arm64-darwin-24
+  ruby
+
+DEPENDENCIES
+  syntax_tree
+
+BUNDLED WITH
+   2.6.2
